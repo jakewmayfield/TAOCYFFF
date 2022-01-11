@@ -24,12 +24,12 @@ function preload()
   imgDogNose = loadImage("https://i.ibb.co/PWYGkw1/dog-nose.png");
 
   // Khaled & Henry assets
-  imgBemused=loadImage("bemused1.png")
-  imgDisgust=loadImage("disgust.png")
+  imgBemused=loadImage("Images/bemused1.png")
+  imgDisgust=loadImage("Images/disgust.png")
   // imgExpository=loadImage("expository1.png")
-  imgHenry=loadImage("Henry Afraid Henry Very Afraid.png")
+  imgHenry=loadImage("Images/Henry Afraid Henry Very Afraid.png")
   // imgScared=loadImage("scared1.png")
-  imgInquisitive=loadImage("what_are_you_doing.png")
+  imgInquisitive=loadImage("Images/what_are_you_doing.png")
 }
 
 /**
